@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/noraworld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://noraworld.com
+  * I am noraworld (https://keybase.io/noraworld) on keybase.
+  * I have a public key with fingerprint D491 DABF 480A 29F0 B22D  E586 6D59 C95E B487 3A43
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a42ea103fff8d1a219db2be3ba8836302d1e1c5c56541cc25f192d8e0b816c440a",
+      "fingerprint": "d491dabf480a29f0b22de5866d59c95eb4873a43",
+      "host": "keybase.io",
+      "key_id": "6d59c95eb4873a43",
+      "kid": "0101a42ea103fff8d1a219db2be3ba8836302d1e1c5c56541cc25f192d8e0b816c440a",
+      "uid": "ea7606a20b9b45d2b123ae929f5fd419",
+      "username": "noraworld"
+    },
+    "service": {
+      "hostname": "noraworld.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1591269271,
+  "expire_in": 157680000,
+  "prev": "741c97e59a276156b3d5e445d1c8089edd841bf3c635d345b69e2cb47352ccf8",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD5mFz0lFVJaWcJKRXTQndmdvRzEogtUSuWLEZmnmZ1ZXbXd
+457jSTtoEdINeuiGXR/qIUiiQMig6KqYISIhXUizC4UPFVmioYI1K/USPTYvw/zz
+fd//fT9/W0qiz5+AR8eSN/qfZSZ0PjxX7St5+aIxLhCH1grBuFDBJi9WSVkkGqqw
+qBAURCACLEOGgSiZpqlRgCHQKYGESQRrmqRIIqSAAQMZSEEyMAyITKBDqjGRaEAx
+ZFnEQkAwLbuUuWHXsqNclso6oJiYsiZiqJsigZAypCkKRbqhI0ZkTZWwLHFimRPx
+GNwcwRGWbTm8xh+hSXv/wP9n39WTcgyriqhgKBKdyIhCAqCEmc6tI5PKQPeAEeba
+eDfjaNtx8R7HraRCXUDg5ZhlMG+yXpS/IdmGs5uzw64TdQynkn+VRaPhSNCjRmvD
+HnYPI6HfKiFi2ZRPkjNizI1Yji0EAUcaUcuTBUgHUNGhCgICqwlbLgtZHgKpiiby
+4/VhMS6p8sC6ypCOoaoApBCJIibzZMDQRE1nlGoyIKZkKBKikoyIojNoEFmVEDQM
+UxO8XFW2w7UV7hOXcs2IVWrjaLXLhLpHD4qn+hL8vunTpngr5vMnz/mzeFuGknyN
+WfcP5DffOlN5ZG7T8vyG3EB2QdKsjm3E/6llTcM8h3bd3NuXf76z/tiplZvHZpR3
+tk4pd9dVdGi9x3OOFT3sGzDl4tSRYMabU+dL7vZ8PbR15cTaW4MfC2+sPzmedfzu
+4YMLk4qvXe9pbtun3KyRto+//fyhwKa5Q9OGZ2XEHo/2L6lPfPbTEF6VZPpnOoMX
+huYGrGWbXj89e6kgOTnecDUu2+z0m/lZ39K6Vte+P6S1XO66smNXzob0zPj32TvX
+5t3uX/pywYmi/e9Sh7/cu3N6oP1JdmFPy9GJWLe/Xf3RmleftmikcTwFfmoKp3fO
+Twk2kRWrqvoLu+88L1r84GKt1Bv8BbH9QpA=
+=FjqH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/noraworld
+
+==================================================================
